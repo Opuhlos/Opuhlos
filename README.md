@@ -31,6 +31,6 @@ A Junior Computer Science student at the University of Georgia with a passion fo
     <img src="https://img.shields.io/badge/Ortiducal-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/opuhlos-%235865F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="discord"/>
+    <img src="https://img.shields.io/badge/opuhlos-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
 </div>
