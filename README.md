@@ -1,5 +1,3 @@
-# hello
-
 <h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
 <h3 align="center">A Junior Computer Science student at the University of Georgia</h3>
 
