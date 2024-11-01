@@ -11,11 +11,14 @@
 ###### Web Development Frameworks & Libraries
 [![Web Development Frameworks & Libraries](https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,figma)](https://skillicons.dev)
 
+###### Cloud, DevOps & CI/CD
+[![Cloud & DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
+
 debian
 
 discord
 
-docker
+
 
 eclipse
 
@@ -26,15 +29,15 @@ emacs
 git
 
 
-jenkins
 
-kubernetes
+
+
 
 latex
 
 linkedin linux   obsidian
 
-   terraform visualstudio vscode
+    visualstudio vscode
 
  aws bitbucket
 
