@@ -25,7 +25,7 @@ A Junior Computer Science student at the University of Georgia with a passion fo
 ### 📫 Let's Connect
 <div display="flex">
   <a href="https://www.linkedin.com/in/eric-o-nguyen/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; margin: 0px;">
   </a>
   <a href="https://x.com/Ortiducal">
     <img src="https://img.shields.io/badge/Ortiducal-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
