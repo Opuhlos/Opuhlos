@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
 <h3 align="center">A Junior Computer Science student at the University of Georgia</h3>
 
-- 🔭 This page is still under construction
+### 🔭 I’m working on
+- this page 
+- a full stack web application that allows uers to display their outfits
+- a website for the Game Builders Club at UGA
+- a visual novel game as the 2D background artist
 
 ###### Game Development 
 [![Game Development Skills](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev)
