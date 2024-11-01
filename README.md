@@ -20,4 +20,16 @@ A Junior Computer Science student at the University of Georgia with a passion fo
 [![Cloud & DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
 
 ###### Operating Systems & Tools
-[![Operating Systems & Tools](https://skillicons.dev/icons?i=linux,debian,vscode,eclipse,emcas,figma,latex,obsidian)](https://skillicons.dev)
+[![Operating Systems & Tools](https://skillicons.dev/icons?i=linux,debian,vscode,eclipse,emacs,figma,latex,obsidian)](https://skillicons.dev)
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/eric-o-nguyen//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Ortiducal">
+    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://x.com/Ortiducal">
+    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+</a>
+</div>
