@@ -23,7 +23,7 @@ A Junior Computer Science student at the University of Georgia with a passion fo
 [![Operating Systems & Tools](https://skillicons.dev/icons?i=linux,debian,vscode,eclipse,emacs,figma,latex,obsidian)](https://skillicons.dev)
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/eric-o-nguyen//">
+  <a href="https://www.linkedin.com/in/eric-o-nguyen/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
