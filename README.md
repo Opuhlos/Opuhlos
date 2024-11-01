@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
-<h3 align="center">A Junior Computer Science student at the University of Georgia</h3>
+## 👋, I'm Eric Nguyen
+A Junior Computer Science student at the University of Georgia with a passion for game and web development
 
 ### 🔭 I’m working on
 - this page 
