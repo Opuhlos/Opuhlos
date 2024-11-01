@@ -10,22 +10,12 @@ A Junior Computer Science student at the University of Georgia with a passion fo
 ### 📫 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/eric-o-nguyen/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/Ortiducal">
-    <img src="https://img.shields.io/badge/Ortiducal-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/opuhlos-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-
+  <a href="https://www.linkedin.com/in/eric-o-nguyen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Ortiducal"><img src="https://img.shields.io/badge/Ortiducal-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/opuhlos-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
-
 
 ###### Game Development 
 [![Game Development Skills](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev)
