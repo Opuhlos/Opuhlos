@@ -23,20 +23,10 @@ A Junior Computer Science student at the University of Georgia with a passion fo
 [![Operating Systems & Tools](https://skillicons.dev/icons?i=linux,debian,vscode,eclipse,emacs,figma,latex,obsidian)](https://skillicons.dev)
 
 ### 📫 Let's Connect
-<div display="flex" style="display: flex; gap: 10px; font-size: 0;">
-  <a href="https://www.linkedin.com/in/eric-o-nguyen/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Ortiducal">
-    <img src="https://img.shields.io/badge/Ortiducal-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/opuhlos-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-  </a>
-</div>
 
 <p>
-  <a href="https://x.com/Ortiducal"><img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eric-o-nguyen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Ortiducal"><img src="https://img.shields.io/badge/Ortiducal-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eric-o-nguyen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/linkedin-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
