@@ -14,31 +14,10 @@
 ###### Cloud, DevOps & CI/CD
 [![Cloud & DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins)](https://skillicons.dev)
 
-debian
+###### Operating Systems & Tools
+[![Operating Systems & Tools](https://skillicons.dev/icons?i=linux,debian,vscode,eclipse,emcs,figma,latex,obsidian)](https://skillicons.dev)
 
-discord
-
-
-
-eclipse
-
-emacs
+     
 
 
 
-git
-
-
-
-
-
-
-latex
-
-linkedin linux   obsidian
-
-    visualstudio vscode
-
- aws bitbucket
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,aws,bitbucket)](https://skillicons.dev)
