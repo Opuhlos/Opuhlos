@@ -3,9 +3,7 @@ A Junior Computer Science student at the University of Georgia with a passion fo
 
 ### 🔭 I’m working on
 - this page 
-- a full stack web application that allows uers to display their outfits
 - a website for the Game Builders Club at UGA
-- a visual novel game as the 2D background artist
 
 ### 📫 Let's Connect
 
